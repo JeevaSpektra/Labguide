@@ -1,25 +1,2 @@
-
-This is inline validation from qa template Inline Questions (2367)
-<validation step="70490971-929f-49a8-b2de-ea53f91590cc" />
-
-Please answer the following question
-<question source="../questions/Page2/question-01.md" />
-
-Please answer the following question
-<question source="../questions/Page2/question-02.md" />
-
-Please answer the following Text Input question
-<question source="../questions/Page2/question-06.md" />
-
-Please answer the following question
-<question source="../questions/Page2/question-03.md" />
-
-Please answer the following Text Input question
-<question source="../questions/Page2/question-07.md" />
-
-Please answer the following question
-<question source="../questions/Page2/question-04.md" />
-
-Please answer the following Text Input question
-<question source="../questions/Page2/question-05.md" />
-
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+<inject key="TempPassword" enableCopy="true" enableClickToPaste="true" />
