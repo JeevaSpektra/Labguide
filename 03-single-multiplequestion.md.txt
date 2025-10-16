@@ -1,0 +1,28 @@
+Please provide feedback about the lab guide
+
+This is inline validation from qa template Inline Questions (2367)
+<validation step="2e98622a-aa98-415b-bed9-1fd51c8ad517" />
+
+This is inline validation from qa template Inline Questions (2367)
+<validation step="316cfce8-fa9c-4a9a-a9f4-efc319693314" />
+
+Please answer the following Text Input question
+<question source="../questions/Page3/question-07.md" />
+
+Please answer the following question
+<question source="../questions/Page3/question-01.md" />
+
+Please answer the following question
+<question source="../questions/Page3/question-02.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page3/question-06.md" />
+
+Please answer the following question
+<question source="../questions/Page3/question-03.md" />
+
+Please answer the following question
+<question source="../questions/Page3/question-04.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page3/question-05.md" />
