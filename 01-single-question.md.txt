@@ -1,0 +1,40 @@
+This is inline video 1
+
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+
+<inline-video source="https://www.youtube.com/watch?v=hG-wgtKJ9Es" width="250px" height="200px" />
+
+This is inline validation from qa template Inline Questions (2367)
+<validation step="59365613-a911-4eca-80f0-789a3ae287c9" />
+
+Please answer the following question
+<question source="../questions/Page1/question-01.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page1/question-06.md" />
+
+Please answer the following question
+<question source="../questions/Page1/question-02.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page1/question-07.md" />
+
+Please answer the following question
+<question source="../questions/Page1/question-04.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page1/question-05.md" />
+
+Please answer the following Text Input question
+<question source="../questions/Page1/question-08.md" />
+
+
+Please answer the following Text Input question
+<question source="../questions/Page1/question-09.md" />
+
+
+This is inline video 2
+<inline-video source="https://vimeo.com/799196187/3b767b8933" />
+
+Testing for inline video 3
+<inline-video source="https://www.youtube.com/watch?v=-K5VeMMBHPg" />
