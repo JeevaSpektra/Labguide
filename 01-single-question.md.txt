@@ -37,15 +37,10 @@ Please answer the following Text Input question
 Please answer the following Text Input question
 <question source="../questions/Page1/question-09.md" />
 
-
-
-
-
-
-
-
-This is inline video 2
-<inline-video source="https://vimeo.com/799196187/3b767b8933" />
-
-Testing for inline video 3
-<inline-video source="https://www.youtube.com/watch?v=-K5VeMMBHPg" />
+This is inline video 1
+AZURE AD
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+AZURE AD
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+AZURE TAP
+<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
