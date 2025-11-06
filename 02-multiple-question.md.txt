@@ -1,1 +1,1 @@
-
+<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
