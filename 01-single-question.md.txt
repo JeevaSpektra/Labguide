@@ -31,10 +31,4 @@ Please answer the following Text Input question
 Please answer the following Text Input question
 <question source="../questions/Page1/question-09.md" />
 
-This is inline video 1
-AZURE AD
-<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
-AZURE AD
-<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
-AZURE TAP
-<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
+
