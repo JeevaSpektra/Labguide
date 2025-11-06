@@ -2,6 +2,8 @@ This is inline video 1
 
 <inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
 
+<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
+
 <inline-video source="https://www.youtube.com/watch?v=hG-wgtKJ9Es" width="250px" height="200px" />
 
 This is inline validation from qa template Inline Questions (2367)
