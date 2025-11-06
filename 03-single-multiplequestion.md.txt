@@ -1,5 +1,14 @@
 Please provide feedback about the lab guide
 
+
+AZURE AD
+
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+
+TAP
+<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
+
+
 This is inline validation from qa template Inline Questions (2367)
 <validation step="2e98622a-aa98-415b-bed9-1fd51c8ad517" />
 
