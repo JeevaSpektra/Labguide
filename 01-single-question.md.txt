@@ -7,6 +7,7 @@ This is inline validation from qa template Inline Questions (2367)
 <validation step="59365613-a911-4eca-80f0-789a3ae287c9" />
 
 Please answer the following question
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
 <question source="../questions/Page1/question-01.md" />
 
 Please answer the following Text Input question
