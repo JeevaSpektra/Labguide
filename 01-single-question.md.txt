@@ -1,10 +1,10 @@
 This is inline video 1
+AZURE AD
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+AZURE AD
 
 <inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
-
-
-<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
-
+AZURE TAP
 <inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
 
 <inline-video source="https://www.youtube.com/watch?v=hG-wgtKJ9Es" width="250px" height="200px" />
@@ -36,6 +36,19 @@ Please answer the following Text Input question
 
 Please answer the following Text Input question
 <question source="../questions/Page1/question-09.md" />
+
+
+
+
+
+This is inline video 1
+AZURE AD
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+AZURE AD
+
+<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+AZURE TAP
+<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
 
 
 This is inline video 2
