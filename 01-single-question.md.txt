@@ -6,12 +6,6 @@ This is inline video 1
 This is inline validation from qa template Inline Questions (2367)
 <validation step="59365613-a911-4eca-80f0-789a3ae287c9" />
 
-
-<inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
-
-TAP
-<inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
-
 Please answer the following question
 <question source="../questions/Page1/question-01.md" />
 
