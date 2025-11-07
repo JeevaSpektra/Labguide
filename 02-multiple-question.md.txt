@@ -1,1 +1,7 @@
 TAP: <inject key="AzureAdUserTAPPassword" enableCopy="true" enableClickToPaste="true" />
+
+
+AzureAD: <inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
+
+
+CST: <inject key="CustomHandlerUserPassword" enableCopy="true" enableClickToPaste="true" />
