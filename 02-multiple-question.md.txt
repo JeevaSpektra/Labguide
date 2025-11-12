@@ -4,4 +4,5 @@
 AzureAD: <inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
 
 
-CST: 
+CustomHandlerUserPassword : <inject key="CustomHandlerUserPassword" enableCopy="true" enableClickToPaste="true" />
+
