@@ -2,6 +2,10 @@ This is inline video 1
 customhandleruserpassword :
 <inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
 
+New
+
+<inject key="password" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
+
 
 <inline-video source="https://www.youtube.com/watch?v=hG-wgtKJ9Es" width="250px" height="200px" />
 
