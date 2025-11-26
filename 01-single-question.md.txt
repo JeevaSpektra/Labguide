@@ -21,6 +21,8 @@ Please answer the following Text Input question
 Please answer the following question
 <question source="../questions/Page1/question-02.md" />
 
+customhandleruserpassword : <inject key="CustomHandlerUserPassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
+
 Please answer the following Text Input question
 <question source="../questions/Page1/question-07.md" />
 
