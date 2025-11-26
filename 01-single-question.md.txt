@@ -4,6 +4,7 @@ customhandleruserpassword : <inject key="customhandleruserpassword" cloudname="M
 New : 
 <inject key="password" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
 
+AzureAdUserPassword : <inject key="AzureAdUserPassword" enableCopy="true" enableClickToPaste="true" />
 
 <inline-video source="https://www.youtube.com/watch?v=hG-wgtKJ9Es" width="250px" height="200px" />
 
