@@ -1,6 +1,5 @@
 This is inline video 1
-customhandleruserpassword :
-<inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
+customhandleruserpassword : <inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
 
 New : 
 <inject key="password" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
